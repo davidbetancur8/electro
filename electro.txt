@@ -1,0 +1,115 @@
+Electroencephalography (EEG) is a method to record an electrogram of the spontaneous electrical activity of the brain. The biosignals detected by EEG have been shown to represent the postsynaptic potentials of pyramidal neurons in the neocortex and allocortex.[1] It is typically non-invasive, with the EEG electrodes placed along the scalp (commonly called "scalp EEG") using the International 10–20 system, or variations of it. Electrocorticography, involving surgical placement of electrodes, is sometimes called "intracranial EEG". Clinical interpretation of EEG recordings is most often performed by visual inspection of the tracing or quantitative EEG analysis.
+
+Voltage fluctuations measured by the EEG bioamplifier and electrodes allow the evaluation of normal brain activity. As the electrical activity monitored by EEG originates in neurons in the underlying brain tissue, the recordings made by the electrodes on the surface of the scalp vary in accordance with their orientation and distance to the source of the activity. Furthermore, the value recorded is distorted by intermediary tissues and bones, which act in a manner akin to resistors and capacitors in an electrical circuit. This means not all neurons will contribute equally to an EEG signal, with an EEG predominately reflecting the activity of cortical neurons near the electrodes on the scalp. Deep structures within the brain further away from the electrodes will not contribute directly to an EEG; these include the base of the cortical gyrus, mesial walls of the major lobes, hippocampus, thalamus, and brain stem.[2]
+
+A healthy human EEG will show certain patterns of activity that correlate with how awake a person is. The range of frequencies one observes are between 1 and 30 Hz, and amplitudes will vary between 20 and 100 μV. The observed frequencies are subdivided into various groups: alpha (8–13 Hz), beta (13–30 Hz), delta (0.5–4 Hz), and theta (4–7 Hz). Alpha waves are observed when a person is in a state of relaxed wakefulness and are mostly prominent over the parietal and occipital sites. During intense mental activity, beta waves are more prominent in frontal areas as well as other regions. If a relaxed person is told to open their eyes, one observes alpha activity decreasing and an increase in beta activity. Theta and delta waves are not seen in wakefulness, and if they are, it is a sign of brain dysfunction.[2]
+
+EEG can detect abnormal electrical discharges such as sharp waves, spikes, or spike-and-wave complexes that are seen in people with epilepsy; thus, it is often used to inform the medical diagnosis. EEG can detect the onset and spatio-temporal (location and time) evolution of seizures and the presence of status epilepticus. It is also used to help diagnose sleep disorders, depth of anesthesia, coma, encephalopathies, cerebral hypoxia after cardiac arrest, and brain death. EEG used to be a first-line method of diagnosis for tumors, stroke, and other focal brain disorders,[3][4] but this use has decreased with the advent of high-resolution anatomical imaging techniques such as magnetic resonance imaging (MRI) and computed tomography (CT). Despite its limited spatial resolution, EEG continues to be a valuable tool for research and diagnosis. It is one of the few mobile techniques available and offers millisecond-range temporal resolution, which is not possible with CT, PET, or MRI.
+
+Derivatives of the EEG technique include evoked potentials (EP), which involves averaging the EEG activity time-locked to the presentation of a stimulus of some sort (visual, somatosensory, or auditory). Event-related potentials (ERPs) refer to averaged EEG responses that are time-locked to more complex processing of stimuli; this technique is used in cognitive science, cognitive psychology, and psychophysiological research.
+Uses
+Epilepsy
+An EEG recording setup using the 10-10 system of electrode placement.
+
+EEG is the gold standard diagnostic procedure to confirm epilepsy. The sensitivity of a routine EEG to detect interictal epileptiform discharges at epilepsy centers has been reported to be in the range of 29–55%.[5] Given the low to moderate sensitivity, a routine EEG (typically with a duration of 20–30 minutes) can be normal in people that have epilepsy. When an EEG shows interictal epileptiform discharges (e.g. sharp waves, spikes, spike-and-wave, etc.) it is confirmatory of epilepsy in nearly all cases (high specificity), however up to 3.5% of the general population may have epileptiform abnormalities in an EEG without ever having had a seizure (low false positive rate)[5] or with a very low risk of developing epilepsy in the future.[6]
+
+When a routine EEG is normal and there is a high suspicion or need to confirm epilepsy, it may be repeated or performed with a longer duration in the epilepsy monitoring unit (EMU) or at home with an ambulatory EEG. In addition, there are activating maneuvers such as photic stimulation, hyperventilation and sleep deprivation that can increase the diagnostic yield of the EEG.[5]
+Epilepsy Monitoring Unit (EMU)
+
+At times, a routine EEG is not sufficient to establish the diagnosis or determine the best course of action in terms of treatment. In this case, attempts may be made to record an EEG while a seizure is occurring. This is known as an ictal recording, as opposed to an interictal recording, which refers to the EEG recording between seizures. To obtain an ictal recording, a prolonged EEG is typically performed accompanied by a time-synchronized video and audio recording. This can be done either as an outpatient (at home) or during a hospital admission, preferably to an Epilepsy Monitoring Unit (EMU) with nurses and other personnel trained in the care of patients with seizures. Outpatient ambulatory video EEGs typically last one to three days. An admission to an Epilepsy Monitoring Unit typically lasts several days but may last for a week or longer. While in the hospital, seizure medications are usually withdrawn to increase the odds that a seizure will occur during admission. For reasons of safety, medications are not withdrawn during an EEG outside of the hospital. Ambulatory video EEGs, therefore, have the advantage of convenience and are less expensive than a hospital admission, but they also have the disadvantage of a decreased probability of recording a clinical event.[citation needed]
+
+Epilepsy monitoring is often considered when patients continue having events despite being on anti-seizure medications or if there is concern that the patient's events have an alternate diagnosis, e.g., psychogenic non-epileptic seizures, syncope (fainting), sub-cortical movement disorders, migraine variants, stroke, etc. In cases of epileptic seizures, continuous EEG monitoring helps to characterize seizures and localize/lateralize the region of the brain from which a seizure originates. This can help identify appropriate non-medication treatment options.[7] In clinical use, EEG traces are visually analyzed by neurologists to look at various features. Increasingly, quantitative analysis of EEG is being used in conjunction with visual analysis. Quantitative analysis displays like power spectrum analysis, alpha-delta ratio, amplitude integrated EEG, and spike detection can help quickly identify segments of EEG that need close visual analysis or, in some cases, be used as surrogates for quick identification of seizures in long-term recordings.
+
+EEG may be used to monitor the depth of anesthesia, as an indirect indicator of cerebral perfusion in carotid endarterectomy, or to monitor amobarbital effects during the Wada test. EEG can also be used to predict the depth of anesthesia [8] based on the dynamics of the alpha band.
+Other brain disorders
+
+An EEG might also be helpful for diagnosing or treating the following disorders:[9]
+
+    Brain tumor
+    Brain damage from head injury
+    Brain dysfunction that can have a variety of causes (encephalopathy)
+    GLUT1 deficiency syndrome[10]
+    Inflammation of the brain (encephalitis)
+    Stroke
+    Sleep disorders
+
+It can also:
+
+    distinguish epileptic seizures from other types of spells, such as psychogenic non-epileptic seizures, syncope (fainting), sub-cortical movement disorders and migraine variants
+    differentiate "organic" encephalopathy or delirium from primary psychiatric syndromes such as catatonia
+    serve as an adjunct test of brain death in comatose patients
+    prognosticate in comatose patients (in certain instances) or in newborns with brain injury from various causes around the time of birth
+    determine whether to wean anti-epileptic medications.
+
+Intensive Care Unit (ICU)
+
+EEG can also be used in intensive care units for brain function monitoring to monitor for non-convulsive seizures/non-convulsive status epilepticus, to monitor the effect of sedative/anesthesia in patients in medically induced coma (for treatment of refractory seizures or increased intracranial pressure), and to monitor for secondary brain damage in conditions such as subarachnoid hemorrhage (currently a research method).
+
+In cases where significant brain injury is suspected, e.g., after cardiac arrest, EEG can provide some prognostic information.
+
+If a patient with epilepsy is being considered for resective surgery, it is often necessary to localize the focus (source) of the epileptic brain activity with a resolution greater than what is provided by scalp EEG. In these cases, neurosurgeons typically implant strips and grids of electrodes or penetrating depth electrodes under the dura mater, through either a craniotomy or a burr hole. The recording of these signals is referred to as electrocorticography (ECoG), subdural EEG (sdEEG), intracranial EEG (icEEG), or stereotactic EEG (sEEG). The signal recorded from ECoG is on a different scale of activity than the brain activity recorded from scalp EEG. Low-voltage, high-frequency components that cannot be seen easily (or at all) in scalp EEG can be seen clearly in ECoG. Further, smaller electrodes (which cover a smaller parcel of brain surface) allow for better spatial resolution to narrow down the areas critical for seizure onset and propagation. Some clinical sites record data from penetrating microelectrodes.[11]
+
+EEG is not indicated for diagnosing headaches.[12] Recurring headaches are a common pain problem, and this procedure is sometimes used in a search for a diagnosis, but it has no advantage over routine clinical evaluation.[12]
+Home ambulatory EEG
+
+Sometimes it is more convenient or clinically necessary to perform ambulatory EEG recordings in the home of the patient. These studies typically have a duration of 24–72 hours.[citation needed]
+Research use
+	
+This section relies excessively on references to primary sources. Please improve this section by adding secondary or tertiary sources.
+Find sources: "Electroencephalography" – news · newspapers · books · scholar · JSTOR (December 2022) (Learn how and when to remove this template message)
+
+EEG and the related study of ERPs are used extensively in neuroscience, cognitive science, cognitive psychology, neurolinguistics, and psychophysiological research, as well as to study human functions such as swallowing.[13][14][15] Any EEG techniques used in research are not sufficiently standardised for clinical use, and many ERP studies fail to report all of the necessary processing steps for data collection and reduction,[16] limiting the reproducibility and replicability of many studies. But research on mental disabilities, such as auditory processing disorder (APD), ADD, or ADHD, is becoming more widely known, and EEGs are used for research and treatment.[citation needed]
+Advantages
+
+Several other methods to study brain function exist, including functional magnetic resonance imaging (fMRI), positron emission tomography (PET), magnetoencephalography (MEG), nuclear magnetic resonance spectroscopy (NMR or MRS), electrocorticography (ECoG), single-photon emission computed tomography (SPECT), near-infrared spectroscopy (NIRS), and event-related optical signal (EROS). Despite the relatively poor spatial sensitivity of EEG, the "one-dimensional signals from localised peripheral regions on the head make it attractive for its simplistic fidelity and has allowed high clinical and basic research throughput".[17] Thus, EEG possesses some advantages over some of those other techniques:
+
+    Hardware costs are significantly lower than those of most other techniques [18]
+    EEG prevents limited availability of technologists to provide immediate care in high traffic hospitals.[19]
+    EEG only requires a quiet room and briefcase-size equipment, whereas fMRI, SPECT, PET, MRS, or MEG require bulky and immobile equipment. For example, MEG requires equipment consisting of liquid helium-cooled detectors that can be used only in magnetically shielded rooms, altogether costing upwards of several million dollars;[20] and fMRI requires the use of a 1-ton magnet in, again, a shielded room.
+    EEG can readily have a high temporal resolution, (although sub-millisecond resolution generates less meaningful data), because the two to 32 data streams generated by that number of electrodes is easily stored and processed, whereas 3D spatial technologies provide thousands or millions times as many input data streams, and are thus limited by hardware and software.[21] EEG is commonly recorded at sampling rates between 250 and 2000 Hz in clinical and research settings.
+    EEG is relatively tolerant of subject movement, unlike most other neuroimaging techniques. There even exist methods for minimizing, and even eliminating movement artifacts in EEG data [22]
+    EEG is silent, which allows for better study of the responses to auditory stimuli.
+    EEG does not aggravate claustrophobia, unlike fMRI, PET, MRS, SPECT, and sometimes MEG[23]
+    EEG does not involve exposure to high-intensity (>1 Tesla) magnetic fields, as in some of the other techniques, especially MRI and MRS. These can cause a variety of undesirable issues with the data, and also prohibit use of these techniques with participants that have metal implants in their body, such as metal-containing pacemakers[24]
+    EEG does not involve exposure to radioligands, unlike positron emission tomography.[25]
+    ERP studies can be conducted with relatively simple paradigms, compared with IE block-design fMRI studies
+    Relatively non-invasive, in contrast to electrocorticography, which requires electrodes to be placed on the actual surface of the brain.
+
+EEG also has some characteristics that compare favorably with behavioral testing:
+
+    EEG can detect covert processing (i.e., processing that does not require a response)[26]
+    EEG can be used in subjects who are incapable of making a motor response[27]
+    Some ERP components can be detected even when the subject is not attending to the stimuli
+    Unlike other means of studying reaction time, ERPs can elucidate stages of processing (rather than just the result)[28]
+    the simplicity of EEG readily provides for tracking of brain changes during different phases of life. EEG sleep analysis can indicate significant aspects of the timing of brain development, including evaluating adolescent brain maturation.
+
+[29]
+
+    In EEG there is a better understanding of what signal is measured as compared to other research techniques, e.g. the BOLD response in MRI.
+
+Disadvantages
+
+    Low spatial resolution on the scalp. fMRI, for example, can directly display areas of the brain that are active, while EEG requires intense interpretation just to hypothesize what areas are activated by a particular response.[30]
+    Depending on the orientation and location of the dipole causing an EEG change, there may be a false localization due to the inverse problem.[31]
+    EEG poorly measures neural activity that occurs below the upper layers of the brain (the cortex).
+    Unlike PET and MRS, cannot identify specific locations in the brain at which various neurotransmitters, drugs, etc. can be found.[25]
+    Often takes a long time to connect a subject to EEG, as it requires precise placement of dozens of electrodes around the head and the use of various gels, saline solutions, and/or pastes to maintain good conductivity, and a cap is used to keep them in place. While the length of time differs dependent on the specific EEG device used, as a general rule it takes considerably less time to prepare a subject for MEG, fMRI, MRS, and SPECT.
+    Signal-to-noise ratio is poor, so sophisticated data analysis and relatively large numbers of subjects are needed to extract useful information from EEG.[32]
+
+With other neuroimaging techniques
+
+Simultaneous EEG recordings and fMRI scans have been obtained successfully,[33][34][35][36] though recording both at the same time effectively requires that several technical difficulties be overcome, such as the presence of ballistocardiographic artifact, MRI pulse artifact and the induction of electrical currents in EEG wires that move within the strong magnetic fields of the MRI. While challenging, these have been successfully overcome in a number of studies.[37][38]
+
+MRI's produce detailed images created by generating strong magnetic fields that may induce potentially harmful displacement force and torque. These fields produce potentially harmful radio frequency heating and create image artifacts rendering images useless. Due to these potential risks, only certain medical devices can be used in an MR environment.
+
+Similarly, simultaneous recordings with MEG and EEG have also been conducted, which has several advantages over using either technique alone:
+
+    EEG requires accurate information about certain aspects of the skull that can only be estimated, such as skull radius, and conductivities of various skull locations. MEG does not have this issue, and a simultaneous analysis allows this to be corrected for.
+    MEG and EEG both detect activity below the surface of the cortex very poorly, and like EEG, the level of error increases with the depth below the surface of the cortex one attempts to examine. However, the errors are very different between the techniques, and combining them thus allows for correction of some of this noise.
+    MEG has access to virtually no sources of brain activity below a few centimetres under the cortex. EEG, on the other hand, can receive signals from greater depth, albeit with a high degree of noise. Combining the two makes it easier to determine what in the EEG signal comes from the surface (since MEG is very accurate in examining signals from the surface of the brain), and what comes from deeper in the brain, thus allowing for analysis of deeper brain signals than either EEG or MEG on its own.[39]
+
+Recently, a combined EEG/MEG (EMEG) approach has been investigated for the purpose of source reconstruction in epilepsy diagnosis.[40]
+
+EEG has also been combined with positron emission tomography. This provides the advantage of allowing researchers to see what EEG signals are associated with different drug actions in the brain.[41]
+
+Recent studies using machine learning techniques such as neural networks with statistical temporal features extracted from frontal lobe EEG brainwave data has shown high levels of success in classifying mental states (Relaxed, Neutral, Concentrating),[42] mental emotional states (Negative, Neutral, Positive)[43] and thalamocortical dysrhythmia.[44] 
